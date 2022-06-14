@@ -40,7 +40,7 @@ function Users() {
         />
       </div>
       <button onClick={addUser} className="users-button">
-        Add User
+        Add
       </button>
     </div>
   );
